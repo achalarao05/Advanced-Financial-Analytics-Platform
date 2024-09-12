@@ -1,7 +1,3 @@
-Here's the updated version of your GitHub README content:
-
----
-
 # **Advanced Financial Analytics Platform**
 
 A financial analytics platform developed using PostgreSQL for automated insights and management. This project includes advanced SQL, PL/pgSQL procedures, and `pg_cron` for task automation. It delivers dynamic data generation, KPI tracking, budget analysis, and personalized financial recommendations, enabling detailed simulation and analysis of complex financial scenarios.
